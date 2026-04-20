@@ -106,7 +106,3 @@ def main():
     
     print("\nБиблиотека после выдачи:")
     print(library)
-
-
-if __name__ == "__main__":
-    main()
